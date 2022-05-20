@@ -3,7 +3,7 @@
 ## Description
 Simple script for glitching jpeg files from the command line.
 
-![](example.jpg)
+![](https://github.com/gabochi/jdump/blob/master/example.jpeg)
 
 ## Requirements
 + bash
