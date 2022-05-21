@@ -61,7 +61,7 @@ Glitches are saved in a new directory and the names are formated like this: `[im
 ### MONTAGE
 Composes a montage image from gallery.
 
-$ `./montage.sh PATH [WIDTH]`
+$ `./montage.sh PATH [MONTAGE_WIDTH (def 1024) [THUMB_SIZE (def 256)]]`
 
 ### VIDEO
 Creates a video from gallery.
