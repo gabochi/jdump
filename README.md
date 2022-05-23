@@ -51,6 +51,20 @@ You can see now why the *sed* arguments are so important, they look up and repla
 ## Utils
 Other useful scripts.
 
+### GMENU
+Interactive glitching editor, dmenu implementation.
+
+$ `./gmenu.sh IMAGE.JPG`
+
+Open `glitch.jpg` in a viewer and start playing around with parameters.
+
++ v/b : Decrease/Increase value
++ r/t : Decrease/Increase replacing value
++ o/p : Decrease/Increase ocurrence
++ R   : Randomize!
++ S   : Save current parameters into file
++ E   : Exit
+
 ### GALLERY
 Generates a randomized gallery of 256 glitches.
 
